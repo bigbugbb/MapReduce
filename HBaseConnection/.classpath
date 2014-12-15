@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop-1.2.1/hadoop-core-1.2.1.jar" sourcepath="/usr/local/hadoop-1.2.1/src"/>
+	<classpathentry kind="lib" path="/usr/local/hbase-0.94.24/hbase-0.94.24.jar" sourcepath="/usr/local/hbase-0.94.24/src"/>
+	<classpathentry kind="lib" path="/usr/local/hbase-0.94.24/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hbase-0.94.24/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hbase-0.94.24/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hbase-0.94.24/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hbase-0.94.24/lib/protobuf-java-2.4.0a.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hbase-0.94.24/lib/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hbase-0.94.24/lib/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hbase-0.94.24/lib/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
